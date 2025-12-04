@@ -13,6 +13,6 @@ Some of my hobbies outside developing are:
   - Pickleball
   - Competitive Video Games
   - Korean langauge (although I am out of practice, I have convinced myself I will learn the langauge some day...)
-  - [Music](https://open.spotify.com/playlist/1XOEoxLvMXbuDykU5vN1aR?si=453ede0459f54a04)
+  - Listening to [Music](https://open.spotify.com/playlist/1XOEoxLvMXbuDykU5vN1aR?si=453ede0459f54a04)
   - Buidiling & collecting computer peripherals
   - Collecting albums 
