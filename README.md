@@ -6,6 +6,8 @@ I currently work in IT at a school and I have a B.S. in Cybersecurity.
 
 I love game development and use Unity and C# for most my projects! I have also worked in Godot 4 and used GDScript and a little but of Unreal Engine with visual scripting.
 
+I also have experience in JavaScript, Python, and Swift!
+
 Some of my hobbies outside developing are:
   - Pickleball
   - Competitive video games
