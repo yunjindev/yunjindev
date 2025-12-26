@@ -6,7 +6,7 @@ I currently work in IT at a school and I have a B.S. in Cybersecurity.
 
 I love developing games for others to play! I use Unity and C#, and I’ve also worked with Godot 4 and GDScript, as well as Unreal Engine and visual scripting.
 
-I use all three major operating systems in my workflow: **macOS Tahoe 26.1 (MacBook M4 Air)**, **Windows 11 Gaming PC**, and ** Fedora Linux 43 Laptop** — not for any specific reason, I just enjoy all of them.
+I use all three major operating systems in my workflow: **macOS Tahoe 26.1 (MacBook M4 Air)**, **Windows 11 Gaming PC**, and **Fedora Linux 43 Laptop** — not for any specific reason, I just enjoy all of them.
 
 C# isn't my only langauge! I have also used Swift for iOS apps, Python for automation tasks, and JavaScript to build web applications
 
