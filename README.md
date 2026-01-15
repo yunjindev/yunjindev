@@ -5,13 +5,11 @@ My name is Hunter, I am a iOS developer from PA.
 I currently work in IT at a university and I have a B.S. in Cybersecurity.
 
 I love to design and build applications for iOS. I mainly build in Swift and Xcode but I am familiar with other langauges
-like JavaScript, Python, and C# where I use TMUX + NVIM! 
+like JavaScript, Python, and C#.
 
-I really enjoy game development too! A lot of my 2D projects are done in Godot 4 using GDScript. I have some experience in Unity using C# and Unreal Engine using visual scripting for 3D projects!
+I also really enjoy game development, I have experimented with Godot, Unity, and Unreal Engine. I always stuck with Unity for most my projects utilizing C# but I do really love using Godot and GDScript.
 
-I really enjoy game development as well! Most of my 2D projects are created in Godot using GDScript. I also have experience working with Unity in C# and Unreal Engine with visual scripting for 3D projects.
-
-I am currently working on a project called **Kdropworld**!
+I am currently working on a project called **Kdropworld**! 
 
 Some of my hobbies outside developing are:
   - Pickleball
