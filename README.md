@@ -11,6 +11,8 @@ I also really enjoy game development, I have experimented with Godot, Unity, and
 
 I am currently working on a project called **Kdropworld**! 
 
+I use a MacBook Air M4, iPhone 15 Pro Max, and an iPad A16
+
 Some of my hobbies outside developing are:
   - Pickleball
   - Competitive video games
