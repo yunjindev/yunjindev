@@ -6,6 +6,8 @@ I currently work in IT at a university and I have a B.S. in Cybersecurity.
 
 I have knowledge of Go, Swift, Javascript, C#, and gdscript.
 
+I use Omarchy Linux and Doom Emacs.
+
 Some of my hobbies outside developing are:
   - Pickleball
   - Competitive video games
