@@ -1,18 +1,16 @@
-## Hi there 
+## Hi!!!
 
-My name is Hunter, I am a backend developer from PA.
+My name is Hunter (yunjindev) and I am a game developer from PA. I have a B.S in Cybersecurity and currently work in IT.
 
-I currently work in IT at a university and I have a B.S. in Cybersecurity.
+I use Fedora Linux on my laptop and Windows 11 on my PC! Most of my development work is done in C# and Unity but I have experience in Godot using GDScript and Unreal Engine using visual scripting.
 
-I have knowledge of Go, Swift, Javascript, C#, and GDScript.
+Other languages that I am familiar with is Go, Swift, and JavaScript.
 
-I use Fedora Linux 43 and tmux + nvim
+My [Itch.io](https://yunjindev.itch.io/) page!
 
 Some of my hobbies outside developing are:
   - Pickleball
   - Competitive video games
-  - Korean langauge (although I am out of practice, I have convinced myself I will learn the langauge some day...)
   - Reading (sometimes...)
   - Listening to [music](https://open.spotify.com/playlist/1XOEoxLvMXbuDykU5vN1aR?si=453ede0459f54a04)
-  - Buidiling & collecting computer peripherals
-  - Collecting albums 
+  - Collecting albums
