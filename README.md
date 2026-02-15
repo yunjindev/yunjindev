@@ -6,7 +6,7 @@ I use Fedora Linux on my laptop and Windows 11 on my PC! Most of my development 
 
 Other languages that I am familiar with is Go, Swift, and JavaScript.
 
-My [Itch.io](https://yunjindev.itch.io/) page!
+Here is my [Itch.io](https://yunjindev.itch.io/) page!
 
 Some of my hobbies outside developing are:
   - Pickleball
