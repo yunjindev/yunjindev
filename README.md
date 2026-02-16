@@ -2,7 +2,7 @@
 
 My name is Hunter (yunjindev) and I am a game developer from PA. I have a B.S in Cybersecurity and currently work in IT.
 
-I use Fedora Linux on my laptop and Windows 11 on my PC! Most of my development work is done in C# and Unity but I have experience in Godot using GDScript and Unreal Engine using visual scripting.
+Most of my development work is done in C# and Unity but I have experience in Godot using GDScript and Unreal Engine using visual scripting.
 
 Other languages that I am familiar with are Go, Swift, and JavaScript.
 
