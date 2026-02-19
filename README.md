@@ -6,8 +6,6 @@ Most of my development work is done in C# and Unity but I have experience in God
 
 Other languages that I am familiar with are Go, Swift, and JavaScript.
 
-Here is my [Itch.io](https://yunjindev.itch.io/) page!
-
 Some of my hobbies outside developing are:
   - Pickleball
   - Competitive video games
