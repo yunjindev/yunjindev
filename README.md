@@ -1,10 +1,6 @@
-## Hi!!!
+##Hi!
 
-My name is Hunter (yunjindev) and I am a game developer from PA. I have a B.S in Cybersecurity and currently work in IT.
-
-Most of my development work is done in C# and Unity but I have experience in Godot using GDScript and Unreal Engine using visual scripting.
-
-Other languages that I am familiar with are Go, Swift, and JavaScript.
+I am yunjindev (Hunter), I am currently working on **Kdropworld**.
 
 Some of my hobbies outside developing are:
   - Pickleball
