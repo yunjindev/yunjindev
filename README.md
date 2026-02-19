@@ -1,6 +1,6 @@
 ##Hi!
 
-I am yunjindev (Hunter), I am currently working on **Kdropworld**.
+I am yunjindev (Hunter), and I'm currently working on **Kdropworld**.
 
 Some of my hobbies outside developing are:
   - Pickleball
