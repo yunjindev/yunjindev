@@ -2,6 +2,8 @@
 
 I am yunjindev (Hunter), and I'm currently working on **Kdropworld**.
 
+Languages I build in are JavaScript, Go, Swift, C#, and Python
+
 Some of my hobbies outside developing are:
   - Pickleball
   - Competitive video games
