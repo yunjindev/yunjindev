@@ -1,8 +1,10 @@
 ## Hi!
 
-I am yunjindev (Hunter), and I'm currently working on **Kdropworld**.
+I am yunjindev (Hunter) and I am a web developer from PA.
 
-Languages I build in are JavaScript, Go, Swift, C#, and Python
+Current Project: **Lock In! Firefox Extension**
+
+Languages I build in are JavaScript, Go, Swift, C#, and Python.
 
 Some of my hobbies outside developing are:
   - Pickleball
