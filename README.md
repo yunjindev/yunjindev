@@ -2,6 +2,8 @@
 
 I am yunjindev (Hunter) and I am a web developer from PA.
 
+I currently work in IT at school, from IT to web development I love solving problems, creating communities, and building things to make other peoples lives easier.
+
 Current Project: **Lock In! Firefox Extension**
 
 Languages I build in are JavaScript, Go, Swift, C#, and Python.
